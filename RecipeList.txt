@@ -1,0 +1,58 @@
+# Kittinan Ponkaew
+# August 5, 2014
+
+# single line comment
+
+# Ingredients Section
+# format for ingredients
+# amount; name; price
+
+Ingredients
+
+Produce
+1; clove of organic garlic;0.67
+1; lemon; 2.03
+1; cup of corn; 0.87
+
+Meat/Poultry
+1; chicken breast; 2.19
+1; slice of bacon; 0.24
+
+Pantry
+1; ounce of pasta; 0.31
+1; cup of organic olive oil; 1.92
+1; cup of vinegar; 1.26
+1; teaspoon of salt; 0.16
+1; teaspoon of pepper; 0.17
+
+# Recipes Section
+# names of recipe must have ! at the beginning
+# proportion must be in decimals
+# the name in recipe must match the name in ingredient section
+# maintain case and plurality
+
+# format for recipes
+# amount; name
+
+Recipes
+!Salad Dressing
+1; clove of organic garlic
+1; lemon
+0.75; cup of organic olive oil
+0.75; teaspoon of salt
+0.5; teaspoon of pepper
+
+!Healthy Chicken Breast
+1; clove of organic garlic
+4; chicken breast
+0.5; cup of organic olive oil
+0.5; cup of vinegar
+
+!Pasta Fiesta
+1; clove of organic garlic
+4; cup of corn
+4; slice of bacon
+8; ounce of pasta
+0.33; cup of organic olive oil
+1.25; teaspoon of salt
+0.75; teaspoon of pepper
